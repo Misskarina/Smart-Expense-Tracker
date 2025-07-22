@@ -1,7 +1,6 @@
 # 💸Smart-Expense-Tracker
 A simple and user-friendly web app to help you track your daily expenses. Built using **HTML, CSS, JavaScript, PHP**, and **MySQL**, this project covers both frontend and backend development in one lightweight application.
-
----
+![Image](https://github.com/user-attachments/assets/2ffd4d5e-2dc8-494a-9fea-116c05874417)
 
 ## 🎯 Features
 
@@ -12,11 +11,6 @@ A simple and user-friendly web app to help you track your daily expenses. Built 
 - ✅ All expenses are stored in a MySQL database.
 - ✅ Clean and aesthetic light pink UI for better user experience
 
----
-
-## 🖼️ UI Preview
-
-![Image](https://github.com/user-attachments/assets/2ffd4d5e-2dc8-494a-9fea-116c05874417)
 ---
 
 ## 🛠️ Tech Stack
